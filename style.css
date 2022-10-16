@@ -8,7 +8,7 @@
   height: 100vh;
 }
 
-.section-bg {
+.section-padding .section-bg {
   background-image: url(./Img/bg.jpg);
   position: absolute;
   top: 0;
@@ -20,7 +20,7 @@
   background-position: center;
 }
 
-.section-bg:after {
+.section-padding .section-bg:after {
   position: absolute;
   top: 0;
   left: 0;
